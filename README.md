@@ -1,5 +1,5 @@
 ## Hi there 👋
-<h1 align="center">Hi 👋, EdwinEduuh</h1>
+<h1 align="center">Hi 👋, I am EdwinEduuh</h1>
 <p align="center"><i>Backend Software Engineering Student at ALX | Learning One Line of Code at a Time</i></p>
 
 ---
